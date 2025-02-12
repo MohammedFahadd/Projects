@@ -1,0 +1,31 @@
+7 6
+. + . @ . #
+. . ^ . @ .
+@ . . + C .
+. @ . ^ . .
+. + . @ . . 
+. @ ^ + # .
+. @ $ & . *
+
+. is an empty place 
+C is a crystal
++ is a sword
+@ is a nightcrawler
+# is a shield
+$ is an power element that increases health,shield and sword power to max
+^ is a health capsule
+& is a final leader monster
+* is princess
+
+- Collect at least one Sword (+)
+- Defeat at least one Nightcrawler (@)
+- Obtain at least one Shield (#)
+- Consume at least one Health capsule (^)
+- Collect Powermax to increase health,shield and sword power to it's full potential ($)
+- Defeat the final leader monster (&)
+- Rescue the Princess (*)
+
+//command for running this program
+1. g++ main.cpp location.cpp player.cpp crystal.cpp game.cpp healthcapsule.cpp nightcrawler.cpp Kingcrawler.cpp Princess.cpp shield.cpp sword.cpp powermax.cpp -o myMain.o
+
+1. ./myMain.o
