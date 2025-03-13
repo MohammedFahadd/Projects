@@ -25,5 +25,5 @@ Prerequisites
 Compilation and Running
 	1.	Clone the repository: git clone https://github.com/yourusername/terminal-based-adventure-game.git
  	2.	Change directory: cd terminal-based-adventure-game
-  3.  Compile the game using a C++ compiler: g++ -o game Main.cpp Game.cpp Player.cpp Crystal.cpp Location.cpp
-  4.  Run the game: ./game
+ 	3. 	Compile the game using a C++ compiler: g++ -o game Main.cpp Game.cpp Player.cpp Crystal.cpp Location.cpp
+	4.  	Run the game: ./game
